@@ -1,3 +1,2 @@
 print('Demo Python File')
-
-print('Wrong Statement')
+print('Demo Of Python code')
